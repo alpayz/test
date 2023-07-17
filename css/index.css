@@ -15,9 +15,9 @@ section article {
 }
 
 section article:nth-of-type(1) {
-  background-image: url(img/car1.jpg);
+  background-image: url(/img/car1.jpg);
 }
 
 section article:nth-of-type(2) {
-  background-image: url(img/car2.jpg);
+  background-image: url(/img/car2.jpg);
 }
